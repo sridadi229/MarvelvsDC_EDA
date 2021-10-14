@@ -159,10 +159,4 @@ From PortfolioProject..MarvelvsDC
 Where Metascore > 1 
 Group by Movie
 Order by "Score_Percentage %" Desc
-
-
--- Using CTE to perform Calculation on Partition By in previous query
-
--- Using Temp Table to perform Calculation on Partition By in previous query
-
--- Creating View to store data for later visualizations
+--
