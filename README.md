@@ -10,4 +10,5 @@ I have explored the Marvel vs DC dataset to find insight :
 - Top 10 movies by marvel vs dc by gross income and imdb score
 - 
 And then i making visualization data with Power BI
-This data comes from Onyxdata, you can check on website  https://onyxdata.co.uk/data-dna-dataset-challenge/
+This data comes from Onyxdata ,
+You can check on website  https://onyxdata.co.uk/data-dna-dataset-challenge/
