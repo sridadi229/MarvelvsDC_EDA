@@ -1,2 +1,13 @@
-# PortfolioProject
-This repository has code and queries for Marvel vs DC data exploration derived from Onyx Data. I created this data exploration to meet a data challenge. I did some simple calculations using the sql language to find out what is in the data and the difference between the variables. I hope you can provide some feedback on this data exploration and I hope you can find some insights from this repository for yourself.
+# MarvelvsDC_EDA
+Exploratory Data Analysis : Movie's Marvel vs DC 
+
+I have explored the Marvel vs DC dataset to find insight :
+
+Total movies are there on marvel vs dc by year
+Average IMDB score for marvel and dc movies
+Average USA Gross income for marvel and dc movies
+Total Metascore movies by marvel and dc 
+Total Votes movies by marvel and dc 
+Top 10 movies by marvel vs dc by gross income and imdb score
+
+And then i making visualization data with Power BI
