@@ -1,7 +1,7 @@
 # MarvelvsDC_EDA
 Exploratory Data Analysis : Movie's Marvel vs DC 
-This data comes from Onyxdata, you can check on website https://onyxdata.co.uk/data-dna-dataset-challenge/
-
+This data comes from Onyxdata, you can check on website 
+https://onyxdata.co.uk/data-dna-dataset-challenge/
 I have explored the Marvel vs DC dataset to find insight :
 - Total movies are there on marvel vs dc by year
 - Average IMDB score for marvel and dc movies
